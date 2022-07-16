@@ -1,0 +1,26 @@
+button {	
+	height:250px;
+	Width:500px;
+	border-radius: 12px;
+	margin: 155px;
+	font-family:'Permanent Marker', cursive;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	text-transform: uppercase;
+	display: inline-block;
+	cursor: pointer;
+	
+	background-color: White;
+	color: Black;
+}
+body {
+	background-color: White;
+	color: Black;
+}
+p {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+<link rel="stylesheet" href="classic.css">
