@@ -1,10 +1,9 @@
-button {
+button{
 	font-family:'Permanent Marker', cursive;
 	font-weight: bold;
-	text-align: center;
 	text-transform: uppercase;
-	display: inline-block;
 	cursor: pointer;
+	display: inline-block;
 	
 	background-color: Black;
 	color:White;
@@ -13,8 +12,10 @@ button.header{
 	height:50px;
 	Width:100px;
 	text-align: center;
-	text-transform: uppercase;
-	font-family:'Permanent Marker', cursive;
+}
+button.header1{
+	height:50px;
+	Width:150px;
 }
 button.clicker{
 	height:250px;
@@ -23,11 +24,11 @@ button.clicker{
 	margin: 107px;
 	font-size: 50px;
 }
-body {
+body{
 	background-color:Black;
 	color:White;
 }
-p {
+p{
 	font-weight: bold;
 	font-size: 20px;
 }
