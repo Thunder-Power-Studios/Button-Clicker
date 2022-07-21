@@ -1,8 +1,4 @@
 button {
-	height:250px;
-	Width:500px;
-	border-radius: 12px;
-	margin: 155px;
 	font-family:'Permanent Marker', cursive;
 	font-weight: bold;
 	font-size: 50px;
@@ -13,13 +9,6 @@ button {
 	
 	background-color: White;
 	color: Black;
-}
-theme{
-	height:50px;
-	Width:50px;
-	text-align: center;
-	text-transform: uppercase;
-	font-family:'Permanent Marker', cursive;
 }
 body {
 	background-color: White;
