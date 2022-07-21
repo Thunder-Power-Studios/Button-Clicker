@@ -1,9 +1,26 @@
+button {
+	font-family:'Permanent Marker', cursive;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	display: inline-block;
+	cursor: pointer;
+	
+	background-color: White;
+	color: Black;
 theme{
 	height:50px;
 	Width:50px;
 	text-align: center;
 	text-transform: uppercase;
 	font-family:'Permanent Marker', cursive;
+}
+clicker{
+	height:250px;
+	Width:500px;
+	border-radius: 12px;
+	margin: 155px;
+	font-size: 50px;
 }
 p {
 	font-weight: bold;
