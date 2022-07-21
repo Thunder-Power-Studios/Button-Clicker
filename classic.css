@@ -1,7 +1,6 @@
 button {
 	font-family:'Permanent Marker', cursive;
 	font-weight: bold;
-	font-size: 50px;
 	text-align: center;
 	text-transform: uppercase;
 	display: inline-block;
@@ -9,6 +8,20 @@ button {
 	
 	background-color: White;
 	color: Black;
+}
+button.header{
+	height:50px;
+	Width:100px;
+	text-align: center;
+	text-transform: uppercase;
+	font-family:'Permanent Marker', cursive;
+}
+button.clicker{
+	height:250px;
+	Width:500px;
+	border-radius: 12px;
+	margin: 107px;
+	font-size: 50px;
 }
 body {
 	background-color: White;
