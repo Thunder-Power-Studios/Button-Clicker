@@ -9,14 +9,14 @@ button {
 	background-color: White;
 	color: Black;
 }
-theme{
+button.theme{
 	height:50px;
 	Width:50px;
 	text-align: center;
 	text-transform: uppercase;
 	font-family:'Permanent Marker', cursive;
 }
-clicker{
+button.clicker{
 	height:250px;
 	Width:500px;
 	border-radius: 12px;
