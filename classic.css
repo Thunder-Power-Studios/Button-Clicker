@@ -14,6 +14,11 @@ button {
 	background-color: White;
 	color: Black;
 }
+.theme{
+	text-align: center;
+	text-transform: uppercase;
+	font-family:'Permanent Marker', cursive;
+}
 body {
 	background-color: White;
 	color: Black;
