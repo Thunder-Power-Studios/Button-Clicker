@@ -1,4 +1,7 @@
 .theme{
+	text-align: center;
+	text-transform: uppercase;
+	font-family:'Permanent Marker', cursive;
 }
 p {
 	font-weight: bold;
